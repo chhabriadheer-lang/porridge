@@ -28,7 +28,7 @@ export default function Home({ onNavigate }: HomeProps) {
       <section className="max-w-7xl mx-auto px-6 lg:px-8 mb-32">
         <div className="max-w-4xl">
           <h1 className="text-5xl md:text-7xl font-semibold leading-tight mb-8 text-balance">
-            We’re skin-in-the-game partners who grow brands with expertise and conviction
+            We’re partners who build strength, transform businesses, and grow brands with expertise and conviction.
           </h1>
           <p className="text-xl text-gray-600 leading-relaxed max-w-2xl">
             Porridge Ventures partners with early-stage startups to build brands, marketing systems,
