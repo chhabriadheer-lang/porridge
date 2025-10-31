@@ -24,6 +24,7 @@ export default function Navigation({ currentPage, onNavigate }: NavigationProps)
     { name: 'About', id: 'about' },
     { name: 'Services', id: 'services' },
     { name: 'Our Team', id: 'team' },
+    { name: 'Blog', id: 'blog' },
     { name: 'Insights', id: 'insights' },
     { name: 'Contact', id: 'contact' },
   ];
